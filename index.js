@@ -2,6 +2,7 @@
 
 var fs = require('fs');
 var path = require('path');
+var ejs = require('ejs');
 
 function HtmlWebpackLayoutPlugin (options) {}
 

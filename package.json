@@ -23,8 +23,10 @@
     "url": "https://github.com/justinidlerz/html-webpack-layout-plugin/issues"
   },
   "homepage": "https://github.com/justinidlerz/html-webpack-layout-plugin",
-  "devDependencies": {
+  "dependencies": {
     "ejs": "^2.5.7",
+  },
+  "devDependencies": {
     "html-webpack-plugin": "^2.16.0",
     "webpack": "^1.13.0"
   }
